@@ -1,6 +1,5 @@
 # SAWO-Quizellio
 
-[Quizellio]()
 
 <p align="center">
     <img style="margin: 0 0 0 60px" src="./assets/images/SAWO-Quizellio.jpeg" alt="SAWO-Quizellio"/>
