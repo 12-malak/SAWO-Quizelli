@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img style="margin: 0 0 0 60px" src="public/assets/images1/SAWO-Quizellio2.png" width="90" height="60" alt="SAWO-Quizellio"/>
+    <img style="margin: 0 0 0 60px" src="public/assets/images1/SAWO-Quizellio2.png" width="300" height="200" alt="SAWO-Quizellio"/>
 </p>
 
 
