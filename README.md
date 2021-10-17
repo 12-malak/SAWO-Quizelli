@@ -24,7 +24,7 @@ It took us a lot of time to take note of the data and verify its authenticity. B
 
 ## Accomplishments that we're proud of
 
-Our team has worked on the report, which involves research and survey based details. We proceeded further with the app development and its usability. With the tireless support of the team, our project turned into a success. 
+Our team has worked on the report, which involves research and survey based details. We proceeded further with the application development and its usability. With the tireless support of the team, our project turned into a success. 
 
 ## What we learned
 
