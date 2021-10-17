@@ -1,4 +1,4 @@
-# SAWO-Quizelli
+# SAWO-Quizellio
 
 ## Inspiration
 
