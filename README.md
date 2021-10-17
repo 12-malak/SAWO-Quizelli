@@ -4,7 +4,7 @@
 <p align="center">
     <img style="margin: 0 0 0 60px" src="./assets/images1/SAWO-Quizellio.jpeg" alt="SAWO-Quizellio"/>
 </p>
-<div align="center">
+
 
 
 ## Inspiration
