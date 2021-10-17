@@ -2,9 +2,8 @@
 
 
 <p align="center">
-    <img style="margin: 0 0 0 100px" src="public/assets/images1/SAWO-Quizellio2.png" alt="SAWO-Quizellio"/>
+    <img style="margin: 0 0 0 60px" src="public/assets/images1/SAWO-Quizellio2.png?rnd=38062" alt="SAWO-Quizellio"/>
 </p>
-
 
 
 ## Inspiration
